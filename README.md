@@ -93,7 +93,7 @@ public class MilinduGomes {
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase&theme=dark" />
 </p>
 
 ### Tools & DevOps
